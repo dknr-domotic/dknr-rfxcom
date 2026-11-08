@@ -2,8 +2,8 @@
 
 [![Release](https://img.shields.io/docker/v/jcpd/dknr-rfxcom?sort=semver)](https://img.shields.io/docker/v/jcpd/dknr-rfxcom?sort=semver)
 [![Pull](https://img.shields.io/docker/pulls/jcpd/dknr-rfxcom)](https://img.shields.io/docker/pulls/jcpd/dknr-rfxcom)
-[![Issue](https://img.shields.io/github/issues/jcdenis/dknr-rfxcom)](https://img.shields.io/github/issues/jcdenis/dknr-rfxcom)
-[![License](https://img.shields.io/github/license/jcdenis/dknr-rfxcom)](https://github.com/JcDenis/dknr-rfxcom/blob/master/LICENSE)
+[![Issue](https://img.shields.io/github/issues/dknr-domotic/dknr-rfxcom)](https://img.shields.io/github/issues/dknr-domotic/dknr-rfxcom)
+[![License](https://img.shields.io/github/license/dknr-domotic/dknr-rfxcom)](https://github.com/dknr-domotic/dknr-rfxcom/blob/master/LICENSE)
 
 
 ## A propos
@@ -171,15 +171,15 @@ L'état affiché après une commande est l'état demandé : la prise ne confirme
 
 ## Contribuer
 
-Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/JcDenis/dknr-rfxcom/issues) ou en proposant de [requêtes](https://github.com/JcDenis/dknr-rfxcom/pulls) sur le dépôt github du projet.
+Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/dknr-domotic/dknr-rfxcom/issues) ou en proposant de [requêtes](https://github.com/dknr-domotic/dknr-rfxcom/pulls) sur le dépôt github du projet.
 
 
 ## Voir aussi
 
-- [DKNR Teleinfo](https://github.com/JcDenis/dknr-teleinfo)
-- [DKNR APSystems](https://github.com/JcDenis/dknr-apsystems)
-- [DKNR Daikin](https://github.com/JcDenis/dknr-daikin)
-- [DKNR Zendure](https://github.com/JcDenis/dknr-zendure)
-- [DKNR Nuki](https://github.com/JcDenis/dknr-nuki)
+- [DKNR Teleinfo](https://github.com/dknr-domotic/dknr-teleinfo)
+- [DKNR APSystems](https://github.com/dknr-domotic/dknr-apsystems)
+- [DKNR Daikin](https://github.com/dknr-domotic/dknr-daikin)
+- [DKNR Zendure](https://github.com/dknr-domotic/dknr-zendure)
+- [DKNR Nuki](https://github.com/dknr-domotic/dknr-nuki)
 - [rfxcom2mqtt](https://github.com/rfxcom2mqtt/backend)
 - [node-rfxcom](https://github.com/rfxcom/node-rfxcom)

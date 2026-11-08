@@ -15,13 +15,13 @@ RUN usermod -aG dialout node-red
 ENV DKNR_USERNAME=admin \
       DKNR_PASSWORD=admin \
       DKNR_SECRET=dkrfxcom \
-      DKNR_REPOSITORY=https://github.com/JcDenis/dknr-rfxcom \
+      DKNR_REPOSITORY=https://github.com/dknr-domotic/dknr-rfxcom \
       NODE_RED_ENABLE_PROJECTS=true \
       TZ=Europe\Paris
 
 # Image label
 LABEL org.opencontainers.image.authors="Jean-Christian Paul Denis" \
-      org.opencontainers.image.source="https://github.com/JcDenis/dknr-rfxcom" \
+      org.opencontainers.image.source="https://github.com/dknr-domotic/dknr-rfxcom" \
       org.opencontainers.image.title="DKNR Teleinfo" \
       org.opencontainers.image.description="Teleinfo Parser with web UI and MQTT" \
       org.opencontainers.image.licenses="AGPL-3.0"
