@@ -10,6 +10,8 @@
 
 **dknr-rfxcom** est un projet consacré à la récupération et à l'exploitation des données des appareils radio 433 MHz reçus par un émetteur-récepteur **RFXCom RFXtrx433**.
 
+La documentation détaillée est sur [dknr-domotic.github.io](https://dknr-domotic.github.io/sources/rfxcom/).
+
 Ce projet ne pilote pas directement le RFXtrx : il s'appuie sur [rfxcom2mqtt](https://github.com/rfxcom2mqtt/backend) qui publie les trames reçues sur votre serveur MQTT. dknr-rfxcom les traduit dans l'arborescence MQTT commune aux projets DKNR et les déclare à Home Assistant.
 
 
